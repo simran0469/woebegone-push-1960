@@ -1,0 +1,247 @@
+{
+    "Fashion":[
+        {
+            "id":1,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOsVCSn4u1681462720_3e98715cfbcf2be00c34f6a378a789a27a3da15d110d069d9940ae8d904ed319.jpg",
+            "title":"Beautiful Heavy Embroidery ",
+            "category":" Georgette Saree",
+            "price":686
+        },
+        {
+            "id":2,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOQHIgVxX1681462720_5ad2992514db2872569ad25b45e79d7a029559f57ce1ecd965521a78975fbacb.jpg",
+            "title":"Beautiful Heavy Embroidery",
+            "category":" Georgette Saree",
+            "price":686
+        },
+        {
+            "id":3,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOTe7hjxp1681377194_469f9698cb2a6010e074337eac06aa4b0ec6708873f272ebbcf17cd0e59e52c4.jpg",
+            "title":"Beautiful Art Silk Jacquard",
+            "category":" Silk Saree",
+            "price":1115
+        },
+        {
+            "id":4,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOoo8K2G41681377203_60911d19a856a706a969ee6cdc30a63fb4f3472fecc85f44f469847d075652aa.jpg",
+            "title":"Beautiful Soft Lichi Silk ",
+            "category":" Banarasi Saree",
+            "price":446
+        },
+        {
+            "id":5,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOIVBp3kW1681211459_f9033d842d0db8ffdc7b9700473511178bc8ad43a6d80d131ac279b6b95b71e5.jpg",
+            "title":"Velvet Party Wear Saree",
+            "category":" Velvet Saree",
+            "price":1886
+        },
+        {    "id":6,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOX3thMM11681211460_33053f92d5f055080194f5d2e8fe4247906bf455ba2b915be58456d4186dda26.jpg",
+            "title":"New Arrival in Beautiful",
+             "category":" Silk Saree",
+            "price":943
+        },
+        {    
+            "id":7,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOOmkoSbv1681389666_8295548e5bda773d46e2e7800b0cca49473192c2a54e8583d5eba2700c65ff4e.jpg",
+            "title":"Beautiful Soft chimera saree",
+            "category":" Georgette Saree",
+            "price":2058
+        },
+        {  
+            "id":8,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOwq9PZOR1681213704_6fb09788d119111d7b675d9221cea0f796d42af0a4feded91204c327c11f1332.jpg",
+            "title":"Georgette Pearl Lace Saree",
+            "category":" Georgette Saree",
+            "price":1115
+        },
+        {
+            "id":9,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO4veRZso1681389659_30ed0c4f02235591e1b726b2405e877e8fc500ce7ffd41b71d76fe81e3e450d5.jpg",
+            "title":"Beautiful Soft Chimera Saree",
+            "category":" Georgette Saree",
+            "price":2058
+        },
+        {
+            "id":10,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOW2Qki9F1681387099_1b96f3639f192dcfe6f8d84f7c4a298e802f1b8998a676a2f4011175ab39d3b0.jpg",
+            "title":"Maroon Vichitra Silk Saree",
+            "category":" Silk Saree",
+            "price":1115
+        },
+        {
+            "id":11,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOYREBe3T1681213700_93306b4fb6cb452a15c1a029690378968a7b704ff76c1e8182a015fdaef22a6a.jpg",
+            "title":"Jimmi Silk Saree",
+             "category":" Silk Saree",
+            "price":2572
+        },
+        {
+            "id":12,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOKQxj8301681377202_f8591b3f1fee70eadd98d408953a97efed8e151b9d5e9daecb2b267384666cfe.jpg",
+            "title":"Zeel Clothing Women's Art",
+             "category":" Silk Saree",
+            "price":412
+        },
+        {
+            "id":13,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOb6egXzb1681211459_00f6e94ea6957bb08646fb090a1dd8241eafe38acb216ba3a7041a9a4518d930.jpg",
+            "title":"Zeel Clothing Women's Org",
+            "category":" Banarasi Saree",
+            "price":306
+        },
+        {
+            "id":14,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOlNxNIQ01681213678_bed9ab8707f488e277c1476be2bdaec24cf1492fe8c032a667e81bdf3a61e988.jpg",
+            "title":"Arayna Women's Cotton Printed",
+            "category":" Georgette Saree",
+            "price":266
+        },
+        {
+            "id":15,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOP0LFt5N1681213699_cf3489aa4d8204bf5d79535d814c8eff9ff8f5d3dc36e8c6ace672ce64429bd4.jpg",
+            "title":"Banarasi Silk Saree",
+            "category":" Banarasi Saree",
+            "price":1115
+        },
+        {
+            "id":16,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOmrGqLJ41681213701_0132fa9902b75d9e50a9a28639d6b22349bdee77eba926446e4181515a0e9bb2.jpg",
+            "title":"Floral Printed Black Saree",
+            "category":" Georgette Saree",
+            "price":1115
+        },
+        {
+            "id":17,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOXqiloso1681213689_8ce4aee63a95061d12f2021b146fc946413c5845be67d4ffe3b126dd45ea2a86.jpg",
+            "title":"Beautiful Soft Chimera Saree",
+            "category":" Georgette Saree",
+            "price":457
+        },
+        {
+            "id":18,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOE7Bteh51681385380_e144a3590063e6a4111c42e4275a926344ba5e6b0ee435d0ea2f909cb8cced7a.jpg",
+            "title":"Beautiful Heavy Embroidery ",
+            "category":" Silk Saree",
+            "price":493
+        },
+        {
+            "id":19,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOc13MRmJ1681385794_11e38c0f6e7c720b351962c12518006c56786f10b23c3c1f2a4fadb9368b801e.jpg",
+            "title":"Beautiful Soft Chimera Saree",
+            "category":" Georgette Saree",
+            "price":400
+        },
+        {
+             "id":20,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOl28kboD1681389659_62bc1b78bce9e3334c5bc97cc1268fd3935b3efa4da535f9802af029ca8b6332.jpg",
+            "title":"Beautiful Soft Chimera Saree",
+            "category":" Georgette Saree",
+            "price":306
+        },
+        {
+            "id":21,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOusRgOHl1681385794_4d3beb8dcd4319ddcf8290c719626edae95ce8f01964028aba0b1af0dd64db60.jpg",
+            "title":"Beautiful Soft Lichi Silk ",
+            "category":" Silk Saree",
+            "price":900
+        },
+        {
+            "id":22,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOjkiDeKa1681387097_41d4d65df7f637c9069808c5c6f9449a1751e56343ff705abdcff26edc1fdb13.jpg",
+            "title":"Beautiful Art Silk Jacquard",
+            "category":" Silk Saree",
+            "price":899
+        },
+        {
+            "id":23,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO2FKPotB1681387098_737cb1dfccfc895be57659a1e5c7ba5f06b21ecddaf307acdb7f4235dda66320.jpg",
+            "title":"Floral High - Low Dress",
+             "category":" Georgette Saree",
+            "price":675
+        },
+        {
+            "id":24,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOFp715NC1681377206_202e125496ea40b57862a716d554a12c05d85f5142f9167ecf4500c412ff9e91.jpg",
+            "title":"Foria Rayon Fabulous Women",
+            "category":" Georgette Saree",
+            "price":350
+        },
+        { 
+            "id":25,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOcGozSaX1681387111_d4c96a2834558baa24245a15c163429fe8cf682b91ef09057a2ec18f01329ee4.jpg",
+            "title":"Beautiful Soft Chimera Saree",
+            "category":" Silk Saree",
+            "price":600
+        },
+        {
+            "id":26,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOHKJtaEN1681462720_01c89bf4800445596172f8cf948923d373b0ded7aeaaa9935f5af696041ee943.jpg",
+            "title":"Beautiful Soft chimera saree",
+            "category":" Silk Saree",
+            "price":899
+        },
+        { "id":27,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOATekfyQ1681462721_e1b8b9c07dda827f1ff858e1e043050476d9972ca25606265f0b97e16061de51.jpg",
+            "title":"Beautiful Art Silk Jacquard",
+            "category":" Georgette Saree",
+            "price":702
+        },
+        {
+            "id":28,
+            "image":"https://cdn.plotch.io/image/upload/w_550/C/V/PLODHmg6mP1681462723_39713a6a78b7b6febdc504139b42a513013eba4079d1446582d967dcd9633dcc.jpg",
+            "title":"Beautiful Soft Chimera Saree",
+            "category":" Georgette Saree",
+            "price":699
+        },
+        {
+            "id":29,
+            "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOFp715NC1681377206_202e125496ea40b57862a716d554a12c05d85f5142f9167ecf4500c412ff9e91.jpg",
+            "title":"New Arrival in Beautiful",
+            "category":" Silk Saree",
+            "price":998
+        }
+    ],
+    "stores":[
+        {
+            "image":"http://lh3.googleusercontent.com/9ObthFmAMkQ-gkpSgE5D52_wVa7gTGDQNK9aSy5VLW617hjuK_8xvPJLPJGmGCrGcF-od6atsAAYahxEBQGB2UE4JJaN",
+            "title":"MANISHAS BAKERY 24x7",
+            "distance":"0.94KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/mcQJiWzBipp4HtPe2PU5J7ylbwMaEWuNRwZ99vJDdxy_R89qvwzrdZ3CjzVSf4LjpatDmWpkIeJiMKY1ZwadT0vDzfQV",
+            "title":"PUNJABI GRILL",
+            "distance":"0.94KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/P4O79x1nhcCe64dhl6v4HBMPrSuNf-0PGU5nuKYJ2QuDBg6ZpoGw38kv3DZWXfTzxf_KsAt80stKncDCx8oQwi4XgQ",
+            "title":"DA PIZZA YUM",
+            "distance":"0.99KM"
+        },
+        {
+            "image":"https://lh3.googleusercontent.com/wZzuX6nuUmXmbkAa8ccmAdhGxACmo1ys9-MUcop5Gw9MZU-PfU2vprnFt4qOwUz0B5Hsd2km3EfvuxkfFdcYfX4oLdoZAFMQccBEEARz",
+            "title":"THE GOOD BOWL",
+            "distance":"1.12KM"
+        },
+        {
+            "image":"https://www.uengage.in/images/addo/logos/image-1670933552.jpg",
+            "title":"SCOOP ZONE RESTAURANT",
+            "distance":"0.57KM"
+        },
+        {
+            "image":"https://lh3.googleusercontent.com/oaXVpSfGQNsqx8-_TvrbRaPdgOLdbI52-dZlEzeXqU1c0N-fG3n_iZ23_wvhjSfopSXjkG1OSOMTb_WFNmS2MKApCiCzVcc4-zdTeBV5",
+            "title":"CHILLI PILLI",
+            "distance":"0.82KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/D3YM0j5qwFL6YXNBpS1yOfVCTC_r-NmdrTtZBeIJmXCUKHT9s5yB7-ypmHnjA2ZfxziVtOk91VRczV990acaoCoj5i3QQ5bfpRvW0P4",
+            "title":"NYC FooDIES",
+            "distance":"0.93KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/dnc-pYvp-dz8zyltQhoJ85PUVZtcD_8I1RQKLCI7SrbrEPDrbMXlHzLTdXkaS9pa_ci1YD6wqXipEQAhYyQ_-nWV-Dk",
+            "title":"BEAR BURGER",
+            "distance":"1.31KM"
+        }
+    ]
+}
