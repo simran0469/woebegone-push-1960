@@ -170,10 +170,10 @@ function Home() {
         </DIV>
     )
 }
-const DIV=styled.div`@media (min-width:500px) and (max-width:800px){
+const DIV=styled.div`@media (min-width:0px) and (max-width:600px){
     .landing2{
         display:grid;
-        grid-template-columns:repeat(2,1fr)
+        grid-template-columns:repeat(1,1fr)
     }
 }
 
