@@ -1,0 +1,9 @@
+.footer{
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   justify-content: space-around;
+   margin: 10px 10px 10px 10px;
+   background-color: #B71C1C;
+   color:white
+
+}
