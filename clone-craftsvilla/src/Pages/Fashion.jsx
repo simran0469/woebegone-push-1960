@@ -3,9 +3,12 @@ import FashionList from '../Component/FashionList';
 import Sidebar from '../Component/Sidebar';
 import "./Fashion.css"
 import styled from 'styled-components';
-
-
+import {Navigate} from "react-router-dom"
+const isAuth=false
 const Fashion = () => {
+  if(!isAuth){
+    return <Navigate to="/Login"/>
+  }
   return (
     <DIV>
     <div className='product' >

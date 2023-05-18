@@ -7,8 +7,8 @@ const FashionCard = ({product}) => {
   return (
     // <Link to={`/products/${product.id}`}>
     <div >
-    <div style={{ width:"100%",textAlign:"center",padding:"0px 30px 10px 30px",margin:"20px 20px 20px 20px"}}>
-      <img src={product.image} alt="product-image" width="100%" />
+    <div style={{textAlign:"center",boxShadow:"rgba(100, 100, 111, 0.2) 0px 7px 29px 0px",margin:"20px 20px 20px 20px",padding:"10px 10px 10px 10px"}}>
+      <img src={product.image} alt="product-image" width="80%" />
       <h4>{product.title}</h4>
       <p><b>Category</b>: {product.category}</p>
       <p><b>Price</b>: Rs {product.price}</p>
