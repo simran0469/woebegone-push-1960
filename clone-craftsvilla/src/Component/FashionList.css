@@ -2,10 +2,6 @@
  width:80%;
 display: grid;
 grid-template-columns: repeat(3,1fr);
-row-gap: 20px;
-column-gap: 50px;
-justify-content: space-between;
 margin:auto;
 margin-top: 50px;
-margin-left: 200px;
 }
