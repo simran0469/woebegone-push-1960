@@ -20,13 +20,13 @@ function Navbar() {
                     <div><Link style={{ textDecoration: "none" }} to="/"><h2 className="logo2">CraftsVilla</h2></Link></div>
                     <div>   <input placeholder="Search here for products" className="input" /></div>
                     <div > {links.map((item) => (
-                        <Link style={{ textDecoration: "none" }} key={item.to} to={item.to}
-                        >{item.title}</Link>
+                        <Link style={{ textDecoration: "none" ,color:"black"}} key={item.to} to={item.to}
+                        ><h4>{item.title}</h4></Link>
                     ))}
                     </div>
                     <div>
                         {linkss.map((item) => (
-                            <Link style={{ textDecoration: "none" }} key={item.to} to={item.to}> {item.title}  </Link>
+                            <Link style={{ textDecoration: "none",color:'black' }} key={item.to} to={item.to}> <h4>{item.title} </h4> </Link>
                         ))}
                     </div>
                 </div>

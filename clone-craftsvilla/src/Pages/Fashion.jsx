@@ -3,12 +3,16 @@ import FashionList from '../Component/FashionList';
 import Sidebar from '../Component/Sidebar';
 import "./Fashion.css"
 import styled from 'styled-components';
-import {Navigate} from "react-router-dom"
-const isAuth=false
+// import {Navigate} from "react-router-dom"
+// import { useContext } from 'react';
+// import {AuthContext} from "../Component/Context/AuthContextProvider"
 const Fashion = () => {
-  if(!isAuth){
-    return <Navigate to="/Login"/>
-  }
+  // const {IsAuth}=useContext(AuthContext)
+  // if(!IsAuth){
+    
+  //   return <Navigate to="/Login"/>
+  // }
+  
   return (
     <DIV>
     <div className='product' >
