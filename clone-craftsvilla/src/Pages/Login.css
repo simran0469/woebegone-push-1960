@@ -1,0 +1,26 @@
+.login{
+   
+    display: flex;
+    justify-content: space-around;
+   
+}
+.logo3{
+    margin-top: 20px;
+    color:#D81B60
+}
+.loginbtn{
+    background-color: #C62828;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border:none;
+    margin:10px 
+}
+.loginheadline{
+    color:#C62828
+}
+.email{
+   margin: 10px 10px 10px 10px;
+}
+.password{
+    margin:10px 10px 10px 10px;
+}
