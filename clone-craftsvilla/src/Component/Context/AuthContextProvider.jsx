@@ -4,6 +4,7 @@ function AuthContextProvider({ children }) {
   const [IsAuth, setIsAuth] = useState(false);
   const login = () => {
     setIsAuth(true);
+    alert("Login succesfully, Click on fashion page")
   };
   const logout = () => {
     setIsAuth(false);
