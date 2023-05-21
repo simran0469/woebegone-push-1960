@@ -1,9 +1,14 @@
 import React from 'react';
 //import "./FashionCard.css"
 // import { Link } from 'react-router-dom';
-
-
+import { useDispatch } from 'react-redux';
+import {ADD} from "../Redux/Cart/action"
 const FashionCard = ({product}) => {
+  const dispatch=useDispatch()
+  const handleCart=(product)=>{
+    dispatch(ADD(product))
+    alert("Item Added to the cart")
+  }
   return (
     // <Link to={`/products/${product.id}`}>
     <div >
@@ -12,7 +17,9 @@ const FashionCard = ({product}) => {
       <h4>{product.title}</h4>
       <p><b>Category</b>: {product.category}</p>
       <p><b>Price</b>: Rs {product.price}</p>
-      <button style={{borderRadius:"5px",backgroundColor:"#C62828",padding:"10px 10px 10px 10px",color:"white",border:"none"}}>Add To cart</button>
+      <button onClick={
+        ()=>handleCart(product)
+      } style={{borderRadius:"5px",backgroundColor:"#C62828",padding:"10px 10px 10px 10px",color:"white",border:"none"}}>Add To cart</button>
     </div>
   </div>
   );

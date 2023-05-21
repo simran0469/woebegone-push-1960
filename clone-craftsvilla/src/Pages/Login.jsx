@@ -26,7 +26,7 @@ function Login() {
         
         <h1 className="loginheadline" >Login/SignUp</h1>
         <h4>{IsAuth ? "Login Successfully" : "Welcome To CraftVilla"}</h4>
-        Email:<input  className="email" type="text" /><br/>
+        Email:<input  className="email" type="text"  /><br/>
         Password:<input className="password" type="password"/><br/>
           <button className="loginbtn" onClick={login}>Login</button>
         </div>
